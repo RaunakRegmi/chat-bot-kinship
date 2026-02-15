@@ -2,7 +2,7 @@ from google import genai
 import os
 
 client = genai.Client(
-    api_key="AIzaSyB_Xn5rGszohpzfz6_q5jaNXnRRCOc3O38"
+    api_key="API_KEY"
 )
 
 print("Gemini Chatbot Started (type 'exit' to stop)")
